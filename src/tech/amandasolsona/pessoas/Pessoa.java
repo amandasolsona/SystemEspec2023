@@ -1,11 +1,11 @@
-package tech.angeofdiasg.pessoas;
+package tech.amandasolsona.pessoas;
 
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.List;
 
-import tech.angeofdiasg.composicao.Endereco;
-import tech.angeofdiasg.composicao.Telefone;
+import tech.amandasolsona.composicao.Endereco;
+import tech.amandasolsona.composicao.Telefone;
 
 public class Pessoa {
 	private String nome;

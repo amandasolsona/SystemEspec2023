@@ -1,8 +1,8 @@
-package tech.angeofdiasg.pessoas;
+package tech.amandasolsona.pessoas;
 
 import java.time.LocalDate;
 
-import tech.angeofdiasg.composicao.Endereco;
+import tech.amandasolsona.composicao.Endereco;
 
 public class Cliente extends Pessoa{
 	private String codigo;

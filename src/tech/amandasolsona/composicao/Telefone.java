@@ -1,4 +1,4 @@
-package tech.angeofdiasg.composicao;
+package tech.amandasolsona.composicao;
 
 public class Telefone {
 	private String ddd;

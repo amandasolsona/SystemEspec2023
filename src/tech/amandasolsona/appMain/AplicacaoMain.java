@@ -1,11 +1,11 @@
-package tech.angeofdiasg.appMain;
+package tech.amandasolsona.appMain;
 
 import java.time.LocalDate;
 
-import tech.angeofdiasg.composicao.Endereco;
-import tech.angeofdiasg.composicao.Telefone;
-import tech.angeofdiasg.estruturas.ListaDeTelefonesNaoOrdenados;
-import tech.angeofdiasg.pessoas.*;
+import tech.amandasolsona.composicao.Endereco;
+import tech.amandasolsona.composicao.Telefone;
+import tech.amandasolsona.estruturas.ListaDeTelefonesNaoOrdenados;
+import tech.amandasolsona.pessoas.*;
 
 public class AplicacaoMain {
 
