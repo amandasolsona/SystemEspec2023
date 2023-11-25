@@ -26,7 +26,7 @@ public class ListaDeTelefonesNaoOrdenados {
 	private void garantirCapacidade() {
 		int novaCapacidade = telefones.length * 2;
 		Telefone[] listaTelefones = new Telefone [novaCapacidade];
-		for(int i = 1; i < tamanho; i++) {
+		for(int i = 0; i < tamanho; i++) {
 			listaTelefones [i] = telefones[i];
 		}
 		telefones = listaTelefones;
