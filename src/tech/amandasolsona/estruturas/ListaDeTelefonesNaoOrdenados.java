@@ -66,7 +66,8 @@ public class ListaDeTelefonesNaoOrdenados {
 				telefones[i] = telefones[i + 1];
 		}
 		//Pega o último elemento e coloca null nele, como também decrementa o tamanho (--tamanho é o mesmo que tamanho -1)
-		telefones[--tamanho] = null;
+		this.tamanho = tamanho -1;
+			telefones[tamanho] = null;
 	}
 	}
 	
